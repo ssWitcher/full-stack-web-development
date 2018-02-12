@@ -1,0 +1,36 @@
+p {
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+
+}
+#date{
+  color: #3498db;
+}
+p{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.container{
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 20px solid #bdc3c7;
+}
+h2{
+  color: #2c3e50;
+  padding-left: 5%;
+}
+
+.brdr{
+  border-left: 8px solid #bdc3c7;
+  padding-left: 1%;
+  margin-left: 5%;
+}
+#brdrBtm{
+  border-bottom: 2px solid #f1f1f1;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
